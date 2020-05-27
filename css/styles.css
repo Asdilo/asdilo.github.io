@@ -7,3 +7,12 @@
 
 body {
     font-family: proxima-nova, sans-serif;}
+
+.m-top {
+    margin-top: 15%;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+  }
